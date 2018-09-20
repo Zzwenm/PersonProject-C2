@@ -1,0 +1,13 @@
+characters: 2230243
+words: 232213
+lines: 15744
+<that>: 4960
+<says>: 4474
+<with>: 2135
+<have>: 2130
+<they>: 2063
+<from>: 2028
+<this>: 1669
+<more>: 1312
+<their>: 1268
+<which>: 1195

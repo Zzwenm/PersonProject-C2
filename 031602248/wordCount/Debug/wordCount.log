@@ -1,0 +1,4 @@
+﻿  pch.cpp
+c:\users\郑小文\documents\github\031602248\src\wordcount\pch.cpp(150): warning C4018: “<”: 有符号/无符号不匹配
+  wordCount.cpp
+  wordCount.vcxproj -> C:\Users\郑小文\Documents\GitHub\031602248\src\Debug\wordCount.exe

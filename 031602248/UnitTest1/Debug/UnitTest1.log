@@ -1,0 +1,4 @@
+﻿D:\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(UnitTest1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  wordCountTest.cpp
+c:\users\郑小文\documents\github\031602248\src\wordcount\pch.cpp(150): warning C4018: “<”: 有符号/无符号不匹配
+  UnitTest1.vcxproj -> C:\Users\郑小文\Documents\GitHub\031602248\src\Debug\wordCountTest.dll
